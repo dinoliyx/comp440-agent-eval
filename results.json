@@ -1,0 +1,2105 @@
+{
+  "author": "Dino Li",
+  "results": [
+    {
+      "conversation_id": 1,
+      "overall": 3.33,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 3,
+          "reason": "The customer only asked about the delivery process, and the agent answered it by confirming the order shipped and will arrive within two business days, but the missing shipping confirmation email and tracking number were never resolved or resent."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 4,
+          "reason": "The agent gave a concrete expectation (delivery within two business days) and told the customer to make sure someone is available to receive it, but gave no specific delivery window, no tracking details, and no follow-up on the missing email."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 3,
+          "reason": "The agent asked for the order number once, then asked which delivery method the customer chose, which was likely retrievable from the order record; this was a minor unnecessary ask but not a repeat of anything already stated."
+        }
+      ]
+    },
+    {
+      "conversation_id": 2,
+      "overall": 3.33,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 2,
+          "reason": "The agent checked with shipping and gave an ETA of end of day, but took no concrete action such as expediting, refunding the express shipping fee, or arranging a replacement, so the customer's urgent need is still unresolved."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 3,
+          "reason": "The agent said the package is expected by end of day and to contact them if it doesn't arrive, but 'we will take appropriate action' is vague and gives no specifics on what action, who, or how soon."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 5,
+          "reason": "The agent asked only for the order number, which the customer hadn't yet provided, and did not re-ask for anything the customer had already said."
+        }
+      ]
+    },
+    {
+      "conversation_id": 3,
+      "overall": 4.0,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 3,
+          "reason": "The agent initiated the return and exchange process and gave a Rs. 500 coupon, but the customer still has to ship the camera back at their own cost and the replacement only happens after it is received, so the issue is only partly resolved."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 4,
+          "reason": "The agent gave the return address, packaging instructions, a 3-5 business day dispatch timeline after receipt, and said an SMS and email with tracking details would follow, though the coupon delivery details were not specified."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 5,
+          "reason": "The agent asked for the order number and pin code, which were new and needed, and never re-asked for anything the customer had already provided."
+        }
+      ]
+    },
+    {
+      "conversation_id": 4,
+      "overall": 4.0,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 5,
+          "reason": "The agent initiated a replacement, waived the return of the old kettle, and confirmed shipping, which is a concrete action settling the issue."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 4,
+          "reason": "The agent stated the replacement would ship within 3-5 business days and that the customer need not return the old kettle, though it did not mention tracking or confirmation details."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 3,
+          "reason": "The agent asked the reason for return after the customer had already said it was not working properly, but the order number and shipping address were new and needed; the shipping address request is arguably something that could be on file."
+        }
+      ]
+    },
+    {
+      "conversation_id": 5,
+      "overall": 3.67,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 3,
+          "reason": "The agent explained how to register and described the warranty terms, but did not register the product herself, so the customer must still complete registration on their own."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 4,
+          "reason": "The agent told the customer to create an account on the website and register with the model number, purchase date and other details, and to call support if problems arise, though she gave no URL and did not say which 'other details' are needed."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 4,
+          "reason": "The agent asked for the model number and purchase date, which the customer had not yet provided, and never repeated any question, but she did not use that information afterward and it was not needed to explain the process."
+        }
+      ]
+    },
+    {
+      "conversation_id": 6,
+      "overall": 4.0,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 3,
+          "reason": "The agent only told John how to start the return himself through his account and did not initiate the return or replacement in the conversation, so the fix is a process explanation rather than a concrete action."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 5,
+          "reason": "The agent explained the steps clearly: John starts the return online, receives an email with a label, packs and ships the camera in its original packaging with accessories, and gets a replacement with tracking after 5-7 business days."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 4,
+          "reason": "The agent asked for name and order number, which was needed, but then asked why John was dissatisfied even though he had already said he was not satisfied; this was arguably a needed reason for the return, and the agent did not repeat any other requests."
+        }
+      ]
+    },
+    {
+      "conversation_id": 7,
+      "overall": 4.0,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 3,
+          "reason": "The agent approved the return and promised a return label by email and a discount code, but the customer still has to pay a $5.99 fee for a defective item and no refund or label was actually issued in the conversation, so the fix is only partial."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 4,
+          "reason": "The agent told the customer to expect an email with the label and instructions, print it, attach it, drop it at USPS, and that the refund will be processed once the item is received, though no timeframes were given for the email or refund."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 5,
+          "reason": "The agent asked for name and order number once, then the issue, which the customer had mentioned only vaguely at first, and the packaging question was new and relevant, so nothing the customer had already given was asked again."
+        }
+      ]
+    },
+    {
+      "conversation_id": 8,
+      "overall": 4.67,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 5,
+          "reason": "The customer only had informational questions about loyalty points, and the agent fully answered them by confirming 200 points, the $20 redemption value, the gift card exclusion, and the six-month expiry, so the customer ended satisfied."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 4,
+          "reason": "The agent said points will be added within 24 hours of delivery and explained how to redeem them on the next purchase and when they expire, but gave no explicit action for the customer beyond that and did not say how the discount is applied at checkout."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 5,
+          "reason": "The agent asked for the order number and email once at the start, which was needed to look up the order, and never asked for anything the customer had already given."
+        }
+      ]
+    },
+    {
+      "conversation_id": 9,
+      "overall": 3.33,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 4,
+          "reason": "The customer's question about loyalty points was answered (50 points earned, how to redeem), though the agent did not take a concrete action and the customer's issue was informational, so it was resolved but with a questionable detail (1 point = $1 and the earlier mention of points being added within 24 hours of purchase on a purchase made earlier)."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 3,
+          "reason": "The agent explained that points are applied at checkout on a future purchase, which is a concrete customer step, but gave no clarity on whether the points were already posted since the August 1st purchase was past the 24-hour window."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 3,
+          "reason": "The agent asked for the email, then for full name and phone number, and then for the product and purchase date, none of which was needed to answer a points question, though the customer had not given those details previously, and the customer had already mentioned the diaper purchase."
+        }
+      ]
+    },
+    {
+      "conversation_id": 10,
+      "overall": 4.67,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 5,
+          "reason": "The agent initiated the return and exchange, arranged pickup and replacement packaging, and secured expedited shipping with delivery within two business days, which settles the customer's issue."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 4,
+          "reason": "The agent said the team would contact the customer within 24 hours to schedule pickup and delivery, that an email with details would follow, and that the new printer would arrive within two business days, though it did not say who would contact them or whether the printer ships before the pickup."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 5,
+          "reason": "The agent asked for the name and order number only once, which was new information at that point, and asked about original packaging, which was needed; it never re-asked anything the customer had already said."
+        }
+      ]
+    },
+    {
+      "conversation_id": 11,
+      "overall": 4.67,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 5,
+          "reason": "The agent rescheduled the delivery for tomorrow between 10 am and 12 pm, which is a concrete action that settles the customer's urgent need."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 4,
+          "reason": "The agent gave the delivery slot (tomorrow 10 am-12 pm) and said a confirmation email would follow, but did not tell the customer to be available or what happens if delivery fails again."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 5,
+          "reason": "The agent asked for the order number and email only after the customer described the problem without providing them, and did not re-ask for anything the customer had already given."
+        }
+      ]
+    },
+    {
+      "conversation_id": 12,
+      "overall": 4.33,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 5,
+          "reason": "The agent reset the password after verification and the customer confirmed they logged in successfully, so the issue was fully resolved."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 3,
+          "reason": "The agent told the customer to log in with the temporary password and change it to a more secure one soon, but when the customer asked if anything else was needed the agent said 'No, that's all', which contradicted the earlier instruction and gave no specifics on how to change the password."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 5,
+          "reason": "The agent asked only for name, email, and then verification details (DOB and card digits) that were new and needed, never re-asking anything the customer had already provided."
+        }
+      ]
+    },
+    {
+      "conversation_id": 13,
+      "overall": 3.33,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 5,
+          "reason": "The senior agent applied a 10% store credit to the customer's account during the call, which the customer accepted as fair, so a concrete resolution was reached even though it was not a direct discount."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 3,
+          "reason": "The senior agent said the credit was added and could be used on future purchases, but gave no amount, no confirmation details, and no expiry, and the first agent only said to hold the line, so next steps were only moderately specific."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 2,
+          "reason": "The customer had to repeat the entire issue to Mark after the transfer because no context was passed along, and the senior agent also re-explained the price match policy already covered, though the order number was only asked once."
+        }
+      ]
+    },
+    {
+      "conversation_id": 14,
+      "overall": 4.0,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 3,
+          "reason": "The agent explained the hardcover/paperback price difference and escalated the remaining paperback discrepancy, but offered only a speculative seller explanation and did not resolve the $10.99 vs $12.99 difference itself."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 4,
+          "reason": "The agent said the senior team would email Alex with an update within 24-48 hours, giving who, how, and when, though not exactly what the investigation would involve."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 5,
+          "reason": "The agent asked for the email and book title only once, which were needed and new, and did not re-ask for anything afterward."
+        }
+      ]
+    },
+    {
+      "conversation_id": 15,
+      "overall": 3.0,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 3,
+          "reason": "The agent submitted a request to logistics to contact the driver, a concrete action, but the outcome is not guaranteed and the address change is not actually done by the end of the chat."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 2,
+          "reason": "The agent said logistics will attempt to contact the driver and that updates will come via email or phone, but gave no timeframe ('it may take some time') and no specifics on what the customer should do or expect."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 4,
+          "reason": "The agent asked for the new address early on (which was new), but after the customer said they needed this order changed, it asked again later for the address, which the customer hadn't yet given, so that was needed; the only mild redundancy was asking for the order number once (given after request) and the agent re-pitching the next-order option despite the customer's stated need."
+        }
+      ]
+    },
+    {
+      "conversation_id": 16,
+      "overall": 4.67,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 5,
+          "reason": "The agent manually applied the $100 exchange discount during the call and the customer thanked her, so the issue was concretely resolved."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 4,
+          "reason": "The agent said the customer would receive the updated invoice by email 'shortly', which is a concrete next step but gives no specific timeframe and no guidance on what to do if it doesn't arrive."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 5,
+          "reason": "The agent asked which phone she was exchanging after the customer had only mentioned an exchange generally, which was new info, but the IMEI check was needed and the name/order number were not previously given; no repeated requests occurred."
+        }
+      ]
+    },
+    {
+      "conversation_id": 17,
+      "overall": 4.33,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 4,
+          "reason": "The agent upgraded shipping to priority at no cost, a concrete action that speeds delivery, though the package had not yet arrived and the delay's cause was left vague."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 4,
+          "reason": "The agent said the package would arrive within two business days via the priority upgrade, which is a specific timeframe, but did not mention a tracking update, confirmation, or what to do if it misses that window."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 5,
+          "reason": "The agent asked only once for the order number, which the customer had not yet given, and did not ask for anything the customer had already provided."
+        }
+      ]
+    },
+    {
+      "conversation_id": 18,
+      "overall": 2.67,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 2,
+          "reason": "The agent only escalated to the shipping team and did nothing concrete such as expediting, reshipping, or refunding, so the customer's event-driven need was left unsolved."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 3,
+          "reason": "The agent said the shipping team would investigate and update the customer by email within 24 hours, which gives a timeframe and channel, though it gave no detail on what the outcome might be or what the customer could do before the weekend."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 3,
+          "reason": "The agent asked for the order number, which was needed, but also asked for the shipping address and email, which was arguably unnecessary, and later asked whether the customer had checked with neighbors, which was a reasonable new question rather than a repeat of something the customer had said."
+        }
+      ]
+    },
+    {
+      "conversation_id": 19,
+      "overall": 3.67,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 5,
+          "reason": "The specialist Alex reactivated the account during the call and said the customer should be able to log in now, which settles the issue, though login was not verified live."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 4,
+          "reason": "The agent gave a clear next step when transferring, and Alex said the customer can log in now, but no explicit instruction was given about what to do if login fails or about purchasing the TV."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 2,
+          "reason": "The customer had to repeat the original problem and email address to Alex after the transfer, and the first agent asked for the reason for deactivation, which the customer could not know; the DOB request was new and needed."
+        }
+      ]
+    },
+    {
+      "conversation_id": 20,
+      "overall": 4.33,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 4,
+          "reason": "The agent confirmed a 20% exchange offer on the XYZ hand blender and explained how to get it, which answers the customer's question, though the purchase itself happens later on the website and the agent took no concrete action."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 4,
+          "reason": "The agent gave specific steps (order on the website, select the exchange offer at checkout, enter old blender details, discount applies automatically) and pointed to the support line and troubleshooting guide, but gave no timeframe or exchange logistics such as pickup."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 5,
+          "reason": "The agent asked which blender and whether the customer had an old one to exchange, which was new and needed information, and never asked the customer to repeat anything."
+        }
+      ]
+    },
+    {
+      "conversation_id": 21,
+      "overall": 4.67,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 4,
+          "reason": "The agent answered the registration question and the follow-ups on warranty length, coverage, and receipt, so the customer's informational needs were fully met, though the agent could not register the product directly and left that step to the customer."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 5,
+          "reason": "The agent clearly told the customer to visit the website, click the 'Product Registration' tab, enter the model number, name, and email, and to keep the original receipt for claims."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 5,
+          "reason": "The agent asked only for the model number, which the customer had not yet given, and never re-asked for anything already provided."
+        }
+      ]
+    },
+    {
+      "conversation_id": 22,
+      "overall": 3.0,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 3,
+          "reason": "The customer wanted to cancel an order but the agent never addressed the 'Cancel' button or cancellation; instead the agent created a replacement order and sent a return label, which is a concrete action but arguably does not settle the actual issue and may even contradict the customer's goal."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 3,
+          "reason": "The agent said a new watch will be sent, shipping is free, and a return label with instructions was emailed, but gave no timeframe for the replacement delivery or the return deadline."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 3,
+          "reason": "The agent asked for the order number and purchase date, which were needed or new, and the email was new info, but the agent asked about troubleshooting steps and the purchase timing without using the customer's original problem description, and the agent did not clarify the cancel issue."
+        }
+      ]
+    },
+    {
+      "conversation_id": 23,
+      "overall": 3.0,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 4,
+          "reason": "The agent initiated the return process and explained the refund, which is a concrete action, but the issue is not fully settled since the refund only comes after the item is received and the agent never gave return shipping instructions."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 3,
+          "reason": "The agent said a confirmation email would arrive shortly and the refund would be processed within 7-10 business days of receiving the T-shirt, but never explained how or where to send the item back."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 2,
+          "reason": "The agent asked for the order number and reason, which the customer had already stated, then asked the customer to describe the damage that had been mentioned, and made an unneeded troubleshooting detour, though the shipping address was new and needed."
+        }
+      ]
+    },
+    {
+      "conversation_id": 24,
+      "overall": 3.33,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 2,
+          "reason": "The agent applied a goodwill discount but did not fix the core problem of the undelivered, out-of-stock power bank, offering no expedite, alternative, or cancellation option, so only a minor concrete action was taken."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 3,
+          "reason": "The agent said the order ships when stock arrives 'in a few days' and delivers 2-3 business days after, which is a vague timeframe with no specific date and no notification plan."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 5,
+          "reason": "The agent asked once for the order number and email, which were new and needed, and did not re-ask for anything the customer had already given."
+        }
+      ]
+    },
+    {
+      "conversation_id": 25,
+      "overall": 4.0,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 5,
+          "reason": "The customer only wanted to know the seller's return policy, and the agent looked it up and explained the 30-day window and the final-sale exclusion, which fully answered the question and left the customer satisfied."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 3,
+          "reason": "No next steps were needed since the question was answered, but the agent gave none beyond a generic invitation to reach out again, and did not say what options remain for a final-sale item."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 4,
+          "reason": "The agent asked for the seller's name even though the order number should have shown it (the agent had already seen the order from a seller), so this was somewhat unnecessary, but the agent did not repeat any request for information the customer had already given."
+        }
+      ]
+    },
+    {
+      "conversation_id": 26,
+      "overall": 2.0,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 1,
+          "reason": "The agent refused the refund, offered only a discount code and troubleshooting tips, and the customer ended the call still demanding their money back with the problem unsolved."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 1,
+          "reason": "The agent closed with 'contact us if you have further questions' and gave no specific next step, such as an escalation, an exchange option, or a timeline, leaving the customer with no clear path forward."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 4,
+          "reason": "The agent asked when the diaper was received, which was new and relevant, but then suggested adjusting the tabs and donating or selling the diapers, which didn't use the customer's stated need; it did not ask for anything already provided, though the agent asked about opening/usage details only implicitly."
+        }
+      ]
+    },
+    {
+      "conversation_id": 27,
+      "overall": 4.0,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 5,
+          "reason": "The agent generated the two-year extended warranty and added it to the customer's order, confirming it was successful, which fully settles the request."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 3,
+          "reason": "The agent said an email with order details and warranty information would be sent, but gave no timeframe and no guidance on what the customer should do or expect afterward."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 4,
+          "reason": "The agent asked for the order number only once and for email and phone, which were new details, though asking why the customer wanted the warranty was unnecessary and the phone number was arguably more than needed."
+        }
+      ]
+    },
+    {
+      "conversation_id": 28,
+      "overall": 2.67,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 3,
+          "reason": "The agent explained the $10.99 remote-location shipping fee and the customer accepted it, but the agent did not waive or adjust the charge or take any concrete action, so the explanation settled the question without fixing the underlying complaint."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 2,
+          "reason": "The agent gave no next steps; it only mentioned free shipping on orders over $50 as a general tip and closed with 'contact us if you have further questions', which leaves the customer with no concrete follow-up."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 3,
+          "reason": "The agent asked for the order number once, and then also asked for the full name and email, which was more than needed to explain a shipping charge, but never asked the customer to repeat anything they had already said."
+        }
+      ]
+    },
+    {
+      "conversation_id": 29,
+      "overall": 3.0,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 3,
+          "reason": "The agent could not speed up the delivery and only offered a $20 goodwill discount on a future purchase, which the customer accepted reluctantly as 'better than nothing', so the urgent need for the shorts was not solved and the customer was only partly appeased."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 3,
+          "reason": "The agent gave the estimated delivery date (Wednesday next week), but never said how the $20 discount would be delivered or applied, such as a code, an email, or when it would arrive, so the next steps stayed incomplete."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 3,
+          "reason": "The agent asked for the order number and then for the issue, which was fine, but later asked for the zip code even though the order was already looked up and the delivery address should have been on file, which is an unnecessary request."
+        }
+      ]
+    },
+    {
+      "conversation_id": 30,
+      "overall": 3.0,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 2,
+          "reason": "The agent only said the shipping department is trying to locate the package, offering no concrete fix such as a replacement, expedited reshipment, or refund, so the problem remains unsolved despite the customer's urgent business need."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 2,
+          "reason": "The agent said they would personally monitor the order and keep the customer updated, but gave no timeframe, no update schedule, and no contact method, so the next step is vague."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 5,
+          "reason": "The agent asked only for the order number, which was needed and not previously given, and did not re-ask for any information the customer had already provided."
+        }
+      ]
+    },
+    {
+      "conversation_id": 31,
+      "overall": 3.0,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 2,
+          "reason": "The agent refused the refund and only escalated, so the customer ended the chat with the issue unresolved, though the repair/replacement offer and escalation show some effort."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 4,
+          "reason": "The agent said the supervisor would get back within 24 hours and had the customer's contact details, giving a timeframe and who acts, but didn't say how they'd be contacted or what the outcome might be."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 3,
+          "reason": "The agent asked for name and order number (new), then asked 'How may I assist' after the customer had given those, and asked what was wrong with the watch after the customer said it wasn't working; this is mildly redundant but not repeated heavily."
+        }
+      ]
+    },
+    {
+      "conversation_id": 32,
+      "overall": 3.67,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 5,
+          "reason": "The agent canceled the delayed order and placed a new one with expedited shipping at no extra cost, a concrete action that addresses the birthday deadline, though the original package was also due tomorrow so the fix is not guaranteed to be better."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 3,
+          "reason": "The agent said the new order should arrive by tomorrow afternoon, which gives a timeframe, but did not mention a confirmation email, tracking details, or what to do if it fails to arrive."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 3,
+          "reason": "The agent asked for the order number only once, and the model was requested after the customer had not yet named it, though the agent could have pulled the model from the existing order record rather than asking."
+        }
+      ]
+    },
+    {
+      "conversation_id": 33,
+      "overall": 4.33,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 5,
+          "reason": "The agent unblocked the account after verifying identity, and the customer confirmed they could log in, so the issue was fully resolved."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 4,
+          "reason": "The agent gave clear instructions at each step (clear cache, then 'try to log in again' after unblocking), but there was no closing summary or guidance on avoiding future lockouts, and since the issue was resolved little more was needed."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 4,
+          "reason": "The agent asked only for new information (name/email, device, DOB and SSN last four) and never repeated a question, though the device question and the cache-clearing step were unnecessary given the account was blocked, which the agent had already seen when checking the account."
+        }
+      ]
+    },
+    {
+      "conversation_id": 34,
+      "overall": 4.67,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 5,
+          "reason": "The agent guided Emily through clearing her Chrome cache and cookies, and the customer confirmed the sign-up worked, so the issue was fully resolved."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 4,
+          "reason": "The agent gave specific, actionable steps (clear cache and cookies in Chrome with detailed instructions, then retry sign-up and report back), though there was no contingency if it failed."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 5,
+          "reason": "The agent asked only for the email and error message, which were new and needed, and the browser question was necessary; the email request was reasonable, though it was not used much afterward."
+        }
+      ]
+    },
+    {
+      "conversation_id": 35,
+      "overall": 2.0,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 2,
+          "reason": "The agent only confirmed that the refund had been initiated and refused to expedite or escalate, so the customer's urgent need went unresolved and nothing concrete was done beyond giving status."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 2,
+          "reason": "The agent gave a 10-14 business day timeline and said to call back if the refund doesn't arrive 'within the next few days', which is vague and inconsistent, and offered no reference number, supervisor callback, or specific action."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 2,
+          "reason": "The customer had already given the order number, and the agent asked for email and phone number, which was arguably unnecessary, and the agent also re-confirmed the CoD return the customer had already described."
+        }
+      ]
+    },
+    {
+      "conversation_id": 36,
+      "overall": 3.33,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 3,
+          "reason": "The agent promised to retrieve the package and redeliver it within 2-3 business days, but took no concrete action in the conversation like a replacement or refund, and declined to expedite."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 3,
+          "reason": "The agent gave a 2-3 business day window and said an email would follow, but then said no timeframe could be guaranteed and the email would come 'as soon as possible', leaving next steps partly vague with no detail on who does what."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 4,
+          "reason": "The agent asked for order number and email, which were new and needed, and the address question was new; it did not repeat any info already given, though the email may have been unnecessary."
+        }
+      ]
+    },
+    {
+      "conversation_id": 37,
+      "overall": 3.67,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 3,
+          "reason": "The agent answered the customer's questions (balance of 500 points, worth Rs. 500, 1000-point minimum, how to earn more), but the customer cannot actually buy the air cooler with points, and the agent took no concrete action beyond giving information, though no real fix was available."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 3,
+          "reason": "The agent explained how to earn more points (Rs. 100 spent = 10 points, referral bonuses), which gives the customer something to do, but did not say what to do next regarding the air cooler purchase or give specifics about referrals."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 5,
+          "reason": "The agent asked only for the customer's name and email, both new and needed to look up the account, and did not repeat any questions."
+        }
+      ]
+    },
+    {
+      "conversation_id": 38,
+      "overall": 4.67,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 5,
+          "reason": "The agent looked up and provided CameraPro's 30-day return policy with condition requirements, directly answering the customer's question, and the customer was satisfied."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 4,
+          "reason": "The agent told the customer to check the 'Product Information' and 'Tags' section on the product page for features and warranty, which is a concrete action, though there was no broader next-step guidance beyond that."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 5,
+          "reason": "The agent asked only for the seller's name, which the customer had not yet provided, and did not repeat any requests afterward."
+        }
+      ]
+    },
+    {
+      "conversation_id": 39,
+      "overall": 4.33,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 5,
+          "reason": "The agent took concrete actions in the call: it approved the return, sent a prepaid return label by email, and scheduled a pickup, which settles the customer's request, though the refund itself comes only after the item is received."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 4,
+          "reason": "The agent explained that the label and instructions were emailed, that the courier would call within 24 hours to confirm pickup (up to 5 business days), and that the refund follows receipt, though it gave no refund timeframe."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 4,
+          "reason": "The agent asked for the order number and reason for return once each and only requested the email address as new information, but it did ask if the customer had tried troubleshooting and whether the item was in original condition after the customer had already said it wasn't working, which is mild redundancy; it did not re-ask anything the customer had already provided."
+        }
+      ]
+    },
+    {
+      "conversation_id": 40,
+      "overall": 4.67,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 5,
+          "reason": "The agent checked the order, confirmed it was successful and being processed, and the customer said that was all they needed, so the inquiry was fully resolved."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 5,
+          "reason": "The agent said the order would ship within 24 hours and that a shipping confirmation email with tracking details would follow, which is specific about what happens and when."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 4,
+          "reason": "The agent asked only for the order number, which was needed, but then asked whether the customer received the confirmation email, which was unnecessary and led to a redundant second status check."
+        }
+      ]
+    },
+    {
+      "conversation_id": 41,
+      "overall": 4.67,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 5,
+          "reason": "The agent looked up order #BB789012, confirmed its status, and provided the backpack dimensions, fully answering both requests and leaving the customer satisfied."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 4,
+          "reason": "The agent gave a concrete timeframe of 3-5 business days for delivery, but did not explain tracking or what to do if the order doesn't arrive, so next steps are fairly specific yet minimal."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 5,
+          "reason": "The agent asked only for the order number, which the customer had not yet provided, and never re-asked for anything the customer had already said."
+        }
+      ]
+    },
+    {
+      "conversation_id": 42,
+      "overall": 3.33,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 5,
+          "reason": "Lisa from the reactivation team reactivated John's account during the call and told him he could access it, and the customer ended satisfied."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 3,
+          "reason": "The agent gave clear handoff steps (transfer, hold, a representative will assist shortly), but after the reactivation no specifics were given on how to confirm access or what to do if it fails, only a generic invitation to reach out."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 2,
+          "reason": "The customer had to give email, full name and phone number to Sarah and then repeat the same details to Lisa, who also re-asked for confirmation, so the transfer lost the information already supplied."
+        }
+      ]
+    },
+    {
+      "conversation_id": 43,
+      "overall": 2.67,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 3,
+          "reason": "The agent said 'I'll initiate the exchange process' and agreed to the exchange, but no concrete action like a confirmation number or placed replacement order was shown; the fix is promised rather than completed."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 3,
+          "reason": "The agent said to keep the Pendrive and packaging ready and that the team will contact the customer 'shortly' with a return label, which gives some steps but no specific timeframe, channel, or delivery timing for the replacement."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 2,
+          "reason": "The agent asked for name and order number (new), but then asked for the laptop model, which was unnecessary, and asked about troubleshooting steps the customer had already said they tried on another laptop and different attempts, so it asked for more than needed."
+        }
+      ]
+    },
+    {
+      "conversation_id": 44,
+      "overall": 3.0,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 3,
+          "reason": "The agent said it would initiate the return and a confirmation email would follow, but it did not confirm that the return was actually processed during the call, and the odd $5.99 fee on an in-window, incompatible item was never justified."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 3,
+          "reason": "The agent said a confirmation email with return details would arrive 'shortly', but gave no timeframe for it, no return shipping instructions, and nothing about when the refund would come or how the fee would be handled."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 3,
+          "reason": "The agent asked for the order number and the reason together even though the customer had stated the reason, and it later asked for the model of the device, which was new and needed, but it did not ask again for the order number. It also sent the customer through a troubleshooting guide that they said they had already tried, and it asked when the item was received, which is needed for the policy check."
+        }
+      ]
+    },
+    {
+      "conversation_id": 45,
+      "overall": 4.33,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 4,
+          "reason": "The agent initiated the return and arranged a pickup during the call, which is a concrete action, but the refund itself is only promised after the product reaches the warehouse, so the issue is not fully settled."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 4,
+          "reason": "The agent gave specific steps: the courier will call within 24 hours, the customer should keep the item packed, and the refund will follow within 3-5 business days after warehouse receipt, though the agent never asked for bank details for the CoD refund."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 5,
+          "reason": "The agent asked for the order number and address, which the customer had not yet provided, and did not re-ask for the damage issue or other details already given."
+        }
+      ]
+    },
+    {
+      "conversation_id": 46,
+      "overall": 2.33,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 2,
+          "reason": "The agent confirmed eligibility and explained the return steps, but the customer must start the return themselves, the agent declined to expedite, and the escalation is only a promise with no concrete outcome."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 3,
+          "reason": "The agent gave concrete return steps (log in, select the order, choose a reason, submit) and a 3-5 business day replacement estimate, but the escalation follow-up had no timeframe or named owner ('as soon as possible')."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 2,
+          "reason": "The agent asked for the order number and issue, which the customer had already given when first describing the problem, and then asked again for the reason for return, which the customer had already stated."
+        }
+      ]
+    },
+    {
+      "conversation_id": 47,
+      "overall": 4.33,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 4,
+          "reason": "The agent initiated the refund after collecting bank details and arranged a product pickup, which is a concrete action, though the refund is not yet completed and the exact deduction is vague."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 4,
+          "reason": "The agent gave a 7-10 business day refund timeframe and said a pickup would be arranged with packaging instructions, but did not say when the pickup would occur or who would contact the customer."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 5,
+          "reason": "The agent asked for the order number and name, then asked for the product and return reason, which the customer had not yet given; bank details were new and needed, so no repeated requests occurred."
+        }
+      ]
+    },
+    {
+      "conversation_id": 48,
+      "overall": 5.0,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 5,
+          "reason": "The agent guided the customer step by step through the order, confirmed stock, and the customer successfully placed the order, so the request was fully resolved."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 5,
+          "reason": "At each step the agent said exactly what to do next, and at the end gave a delivery estimate of 2-3 business days plus a shipping confirmation email with tracking number."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 5,
+          "reason": "The agent asked only for the product name or SKU, which was needed and given once, and never re-asked for any information the customer had already provided."
+        }
+      ]
+    },
+    {
+      "conversation_id": 49,
+      "overall": 3.33,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 4,
+          "reason": "The agent confirmed the return was received and the refund initiated, a concrete resolution, though it refused to expedite and the customer remained unhappy about the 7-14 day wait."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 4,
+          "reason": "The agent said no further action is needed, the team will process the refund within 7-14 business days, and an email confirmation will follow, though the earlier pickup/return details were inconsistent."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 2,
+          "reason": "The agent asked for the order number (new and needed) but then asked for the reason for return, which the customer had already stated in their first message, forcing the customer to repeat it."
+        }
+      ]
+    },
+    {
+      "conversation_id": 50,
+      "overall": 3.67,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 4,
+          "reason": "The agent said 'I have initiated the replacement process' after the customer chose a replacement, which is a concrete action that settles the issue, though the return of the faulty camera was never addressed."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 4,
+          "reason": "The agent said the replacement ships within 24 hours, arrives in 3-5 business days, and that an email with shipping and tracking details will come within 24 hours, but did not explain how to return the faulty camera."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 3,
+          "reason": "The agent asked for the order number only after the customer had not yet given it, but then asked 'what exactly is wrong' (the customer had said it was not working correctly, so this was new and needed), and asked about troubleshooting; however, it asked the customer to confirm replacement vs refund even though the customer had already said they needed a replacement."
+        }
+      ]
+    },
+    {
+      "conversation_id": 51,
+      "overall": 3.0,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 3,
+          "reason": "The agent placed a replacement order and promised a conditional refund, but the customer's need for the watch today was not met and the customer ended unhappy with the refund and delivery still pending, so only part of the issue was resolved."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 3,
+          "reason": "The agent said a confirmation email would arrive shortly and delivery would come within 24 hours, but the refund timing was left as 'as soon as possible', and the agent contradicted itself on whether the refund was conditional on non-delivery, which left the next steps muddled."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 3,
+          "reason": "The customer had already described the issue and given the order number, yet the agent asked for details of the missing delivery, which the customer had already said was missing, though this was a modest repeat and the other requests were needed."
+        }
+      ]
+    },
+    {
+      "conversation_id": 52,
+      "overall": 4.67,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 4,
+          "reason": "The agent initiated the return and exchange and arranged a free pickup within 24 hours, which is a concrete action that settles the issue, though the replacement itself is not yet confirmed as shipped."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 5,
+          "reason": "The agent specified a pickup within 24 hours, told the customer to keep the product ready, said a confirmation email with pickup details would follow, and confirmed free return shipping, though the exchange timeline was not stated."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 5,
+          "reason": "The agent asked only for the order number and email for verification, which was new and needed, and then asked about the damage type, which the customer had only mentioned generally as 'damaged', so nothing already provided was re-asked."
+        }
+      ]
+    },
+    {
+      "conversation_id": 53,
+      "overall": 3.67,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 3,
+          "reason": "The agent confirmed eligibility but did not initiate the return or refund itself, instead telling the customer to start the request on the website, so the issue is only partly advanced with no concrete action taken."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 4,
+          "reason": "The agent gave fairly specific steps (initiate request on website, receive confirmation email with shipping instructions, ship it back, refund in 7-10 business days after return), though it was repetitive and lacked exact website instructions and a Cash on Delivery refund method detail."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 4,
+          "reason": "The agent asked for the order number only once and asked the reason and packaging questions that were new, though the customer had already said they were unsatisfied, and the agent mentioned refund to 'original payment method' without addressing that the order was Cash on Delivery."
+        }
+      ]
+    },
+    {
+      "conversation_id": 54,
+      "overall": 3.33,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 3,
+          "reason": "The supervisor did not refund the phone but agreed to a warranty replacement and said an email would follow, so the replacement was promised rather than actually initiated or settled during the call."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 3,
+          "reason": "The supervisor said an email with replacement instructions would be sent and the customer should follow it, but gave no timeframe, no detail about shipping or sending the old phone, and no specifics on what the email would contain."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 4,
+          "reason": "The agent asked for the purchase date and reason once each, which was needed, but the supervisor did not carry over the customer's stated issue and asked for the order number for the first time, which was new; the customer did have to re-explain the complaint to the supervisor, though the agent never asked for already-given details twice."
+        }
+      ]
+    },
+    {
+      "conversation_id": 55,
+      "overall": 3.33,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 5,
+          "reason": "The billing agent removed the warranty and processed the $50 refund during the call, a concrete action that fully settles the issue."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 4,
+          "reason": "The billing agent said the refund would be credited within 3-5 business days, which gives a specific timeframe, though the agent did not mention a corrected invoice or confirmation."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 1,
+          "reason": "The customer had to repeat the order number, the amount charged and the problem to the billing agent, who asked for them again after the transfer, because the first agent did not pass the details along."
+        }
+      ]
+    },
+    {
+      "conversation_id": 56,
+      "overall": 3.67,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 3,
+          "reason": "The agent updated the address and committed to reshipping within 24 hours, which fixes the core delivery problem, but refused compensation or expediting and handed the compensation demand to a senior agent without resolving it."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 4,
+          "reason": "The agent gave specific steps for the reshipment (reship within 24 hours, new tracking number by email) and said the call would be transferred to a senior agent, though it gave no detail on what the senior agent could do."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 4,
+          "reason": "The agent asked for the order number and purchase date, which was needed, and then asked for the shipping address, which was new information; the customer never repeated anything, though the agent could have confirmed the address on file instead of asking for a fresh one."
+        }
+      ]
+    },
+    {
+      "conversation_id": 57,
+      "overall": 3.0,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 2,
+          "reason": "The agent could not expedite shipping and only offered a refund and a discount, both of which the customer declined; the escalation is a promise with no concrete action, and the customer's urgent need is unresolved."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 2,
+          "reason": "The agent said the shipping department would contact Mary 'as soon as possible' with no timeframe, channel, or detail about what they would do, which is a vague next step."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 5,
+          "reason": "The agent asked only for name and order number at the start, which was needed, and later asked for contact information that was new and needed for escalation, without repeating anything already given."
+        }
+      ]
+    },
+    {
+      "conversation_id": 58,
+      "overall": 2.33,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 3,
+          "reason": "The agent sent a return label that the customer confirmed receiving, which is a concrete step toward resolution, but the refund is still pending and a $20 fee is being deducted despite the item being reported as not working (the agent even said defective items carry no fee), so the issue is only partly settled."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 3,
+          "reason": "The agent said a return label was emailed with instructions and that the refund would be processed after the item is received, but gave no timeframe for the refund, no return deadline, and no detail on how the defect/fee would be assessed."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 1,
+          "reason": "Sarah asked for the order number and reason, and the customer then had to repeat both to Rachel after the transfer, which also asked for the same details again, with no handoff of information."
+        }
+      ]
+    },
+    {
+      "conversation_id": 59,
+      "overall": 3.67,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 4,
+          "reason": "The agent said it would initiate the return and promised a full refund as an exception to the 14-day window, which is a concrete action, though the refund still depends on inspection and the customer said she bought the item only last week, which the agent never reconciled."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 4,
+          "reason": "The agent explained that an email with return instructions would arrive, that the item would be inspected, and that the refund would take 7-10 business days, but gave no timeframe for the email or the return shipment."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 3,
+          "reason": "The agent asked for the reason for the return after the customer had already said she wanted to return it, and asked about troubleshooting and unused condition, which were partly redundant or unnecessary since the item was defective; the order number and name were needed and asked only once."
+        }
+      ]
+    },
+    {
+      "conversation_id": 60,
+      "overall": 2.67,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 1,
+          "reason": "The agent took no concrete action: the order stayed delayed with no cause or ETA, the agent talked the customer out of the requested cancellation and refund, and the customer ended with the problem unsolved."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 2,
+          "reason": "The agent only vaguely promised to 'follow up as soon as I have an update' and 'keep you updated' with no timeframe, channel, or owner, and gave no concrete steps for the customer."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 5,
+          "reason": "The agent asked only for the order number, which was new and needed, though it vaguely said it would need 'some information' for cancellation without specifying and did not re-ask for anything already given."
+        }
+      ]
+    },
+    {
+      "conversation_id": 61,
+      "overall": 4.33,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 5,
+          "reason": "The agent processed the order with 2-day expedited shipping and charged the card, so the customer's request for faster delivery was fully completed."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 4,
+          "reason": "The agent said a confirmation email with order details and tracking would arrive shortly, but gave no specific delivery date or other timeframe beyond the 2-day shipping option."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 4,
+          "reason": "The agent asked only for new information (name/email, product and address, payment) and never repeated a request, though collecting the email was not strictly needed and the agent asked for name and product/address in separate steps."
+        }
+      ]
+    },
+    {
+      "conversation_id": 62,
+      "overall": 4.67,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 4,
+          "reason": "The agent confirmed the exchange offer exists for the LG 1.5 Ton AC and explained how it works, which answered the customer's inquiry, though it did not address the missing website details or give a concrete discount figure."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 5,
+          "reason": "The agent laid out the steps (place the order on the website with the exchange option, the team contacts the customer to schedule the evaluation, the discount is communicated, then payment) and gave a 2-3 business day evaluation estimate, though the contact timeframe is not specified."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 5,
+          "reason": "The agent asked only for the model number, which the customer had not yet given, and then used the customer's details without repeating any questions."
+        }
+      ]
+    },
+    {
+      "conversation_id": 63,
+      "overall": 4.0,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 4,
+          "reason": "The agent confirmed eligibility and initiated the return process for a full refund, which is a concrete action, though the refund is not completed until the diapers are returned."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 5,
+          "reason": "The agent specified that a return email with a prepaid label would arrive within 24 hours and that the refund would be processed within 3-5 business days of receiving the return, though it did not explicitly tell the customer to ship the item right away."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 3,
+          "reason": "The agent asked for name and order number, which was needed, but then asked the customer to describe the damage again even though she had already said the diapers arrived damaged due to poor packaging."
+        }
+      ]
+    },
+    {
+      "conversation_id": 64,
+      "overall": 3.33,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 3,
+          "reason": "The agent found a similar available model deliverable in three business days and the customer accepted it, but the agent never placed the order and left the customer to do so, and the customer remained disappointed about not getting the original fan."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 3,
+          "reason": "The agent said the customer can place the order now with delivery in three business days, but gave no specifics on how to order, which model it is, or what confirmation to expect, and the call ended without a clear action plan."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 4,
+          "reason": "The agent asked for an order number or email when the customer was only trying to place a new order, which was somewhat unnecessary, though the customer had not given anything before and the agent did not re-ask afterward."
+        }
+      ]
+    },
+    {
+      "conversation_id": 65,
+      "overall": 4.0,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 4,
+          "reason": "The agent offered a refund or replacement and said it would arrange a replacement kettle right away, which is a concrete remedy, though the agent only stated it would be arranged and did not confirm the order was placed or address the original delayed shipment."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 3,
+          "reason": "The agent gave a timeframe of two business days for the replacement, but did not give a new order or tracking number, confirm the delivery address, or say what happens to the original kettle if it arrives."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 5,
+          "reason": "The agent asked for the customer's name and order number only once, at the start, and did not repeat any requests for information already given."
+        }
+      ]
+    },
+    {
+      "conversation_id": 66,
+      "overall": 4.33,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 4,
+          "reason": "The agent confirmed the return arrived, committed to a refund and courier reimbursement, and the customer chose a refund, but the refund is only promised pending inspection and nothing was processed during the call."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 5,
+          "reason": "The agent gave specific timeframes (refund in 3-5 business days to the original payment method, courier charge credit to the BrownBox account in 24-48 hours), though the closing was slightly less explicit and inspection could affect the outcome."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 4,
+          "reason": "The agent asked for the order number, return reason, courier and tracking number, each only once and all needed; the courier and tracking asks were new information, though the agent asked 'reason for return' once without prior mention and the courier was needed only for reimbursement."
+        }
+      ]
+    },
+    {
+      "conversation_id": 67,
+      "overall": 3.67,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 3,
+          "reason": "The agent could not enable Cash on Delivery but explained why and walked Tom through paying by another method, and Tom ended the call willing to try it, so the issue was only partly resolved."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 4,
+          "reason": "The agent gave specific steps (log in, go to the product page, click 'Buy Now', choose a payment method at checkout) and offered further help if problems came up."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 4,
+          "reason": "The agent asked for Tom's name and order number once, which was arguably unnecessary for a pre-purchase question, but never asked for anything Tom had already given."
+        }
+      ]
+    },
+    {
+      "conversation_id": 68,
+      "overall": 3.33,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 2,
+          "reason": "The agent only offered a partial refund without confirming it was processed and could not speed up delivery, so the customer's need to have the shoes for the weekend event stayed unsolved."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 3,
+          "reason": "The agent gave an arrival estimate of tomorrow evening but did not say how or when the partial refund would be issued or what amount, and closed with the vague 'we will do everything we can'."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 5,
+          "reason": "The agent asked for the order number only once, after the customer had not yet provided it, and did not ask for anything else the customer had already said."
+        }
+      ]
+    },
+    {
+      "conversation_id": 69,
+      "overall": 1.67,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 1,
+          "reason": "The customer's problem was never solved: the air cooler could not be shipped, no store had stock, and the customer hung up to buy elsewhere."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 2,
+          "reason": "The agent offered a transfer to the store locator, which was a concrete step, but later steps were vague, such as the suggestion to check the online store periodically with no timeframe, and the call ended with no clear plan."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 2,
+          "reason": "The agent asked for the customer's location, which was new information, but the store locator agent asked for the location again after the customer had already given it to the first agent, and the product was asked about although the customer had stated it in the opening message."
+        }
+      ]
+    },
+    {
+      "conversation_id": 70,
+      "overall": 3.33,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 3,
+          "reason": "The customer wanted an exchange for the latest model, which was out of stock, and the agent only offered a 20% ($40) partial refund that the agent said they would process 'right away', so the exchange wasn't achieved and the customer settled with 'better than nothing'."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 2,
+          "reason": "The agent only said 'I will process the refund for you right away' without saying when the $40 would arrive, how to use it toward the new model, or how the customer would be notified when the latest model is back in stock."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 5,
+          "reason": "The agent asked for the order number once, which was needed and new, and then used the stated information, though it did ask which model the customer wanted after the customer had said they wanted a different model, which was new information."
+        }
+      ]
+    },
+    {
+      "conversation_id": 71,
+      "overall": 3.67,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 5,
+          "reason": "The customer wanted information about the cashback offer, and the agent confirmed the 10% instant cashback and then completed the purchase with the discount applied at $89.99, which settled the request."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 2,
+          "reason": "The agent never said what happens after the purchase, such as order confirmation, shipping timeline, or delivery details, so the customer ended the call without knowing what to expect."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 4,
+          "reason": "The agent asked for the product name and code, which the customer had already stated in naming the product, though only after the customer had given only the name in the first message; email and phone were new and needed for the purchase, so the repeated ask is minor."
+        }
+      ]
+    },
+    {
+      "conversation_id": 72,
+      "overall": 4.0,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 3,
+          "reason": "The agent explained the recall and committed to sending a prepaid label and a full refund on receipt, but no concrete action (refund or label sent) was completed during the conversation."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 4,
+          "reason": "The agent specified that a prepaid label will be emailed within 24 hours, to check spam, to request a resend if missing, and that the refund is processed once the item is received, though no refund timeframe was given."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 5,
+          "reason": "The agent asked for the order number and name once, which was needed and not previously provided, and never asked for anything again."
+        }
+      ]
+    },
+    {
+      "conversation_id": 73,
+      "overall": 3.33,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 2,
+          "reason": "The agent only suggested clearing the cache or switching browsers and did not unlock the account or reset the verification code, so the customer left with the problem unresolved and only a possible workaround."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 3,
+          "reason": "The agent told the customer to clear the cache, try another browser or device, and call back if it persists, but gave no timeframe and only vaguely said they 'may' reset the code or verify another way."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 5,
+          "reason": "The agent asked for name and email once, which was new and needed, and did not re-ask for anything the customer had already provided."
+        }
+      ]
+    },
+    {
+      "conversation_id": 74,
+      "overall": 3.33,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 5,
+          "reason": "The agent answered every question: the $20 standard delivery charge, the 3-5 day delivery time, and the $270 total, so the customer's inquiry was fully resolved."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 2,
+          "reason": "The agent never told Emily how to place the order or what happens next, and closed with only a generic goodbye, although the customer chose standard delivery and the conversation needed little follow-up."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 3,
+          "reason": "The agent asked for an order number before knowing the customer had not ordered yet, which was unnecessary, and then asked for the model, which was new and needed; the customer had not yet mentioned the model, so only the first request was wasteful."
+        }
+      ]
+    },
+    {
+      "conversation_id": 75,
+      "overall": 2.67,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 2,
+          "reason": "The agent escalated the case to a senior team but did not resolve the issue, and the customer left with the OTG still unrepaired and unreplaced, so it is only a promised review."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 3,
+          "reason": "The agent said the senior team will review and get back within 24-48 hours, which gives a timeframe, but did not say how they will contact Mary, what the review involves, or what she should do meanwhile."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 3,
+          "reason": "The agent asked for the order number, which was new and needed, but then asked what issue she was facing even though Mary had already said the OTG stopped working and the repair was denied."
+        }
+      ]
+    },
+    {
+      "conversation_id": 76,
+      "overall": 2.67,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 2,
+          "reason": "The agent only told the customer to follow the manual and offered no concrete help with the lens and body setup, though it did answer the responsibility question partially."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 3,
+          "reason": "The agent said to follow the manual and contact BrownBox if trouble continues, which is a basic next step, but it gave no contact details, process, or timeframe."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 3,
+          "reason": "The agent asked about the brand, whether the customer had tried installing, and where the difficulty was, mostly new info, but later asked about the lens/body problem and the manual in ways that added little and the customer had already said they were having difficulty installing."
+        }
+      ]
+    },
+    {
+      "conversation_id": 77,
+      "overall": 3.33,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 3,
+          "reason": "The agent said 'I will create a new order for you' and explained the refund process, but never confirmed the order was actually placed or gave a confirmation or return label, so the fix is mostly promised rather than done."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 3,
+          "reason": "The agent explained the charge-then-refund flow and a 7-10 business day timeline, but never said how or where to send the defective watch, who provides the return label, or when the new watch ships, so the steps are only partly specific."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 4,
+          "reason": "The agent asked for name and order number once, then asked the reason, and later asked whether the customer wanted a return or exchange even though the customer had said 'return or exchange' at the start; this is a necessary clarification, and nothing already given was re-asked."
+        }
+      ]
+    },
+    {
+      "conversation_id": 78,
+      "overall": 4.33,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 5,
+          "reason": "The agent looked up order BB67890, gave its status, explained the order statuses, and answered the warranty question, so the customer's informational needs were fully met."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 3,
+          "reason": "The agent said the order should ship within 24 hours and told her to contact them if warranty issues arise, but did not say how she would be notified of shipping or how to track the order."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 5,
+          "reason": "The agent asked only for the order number, which the customer had not yet provided, and never re-asked for anything the customer had already said."
+        }
+      ]
+    },
+    {
+      "conversation_id": 79,
+      "overall": 4.33,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 5,
+          "reason": "The agent initiated the return, processed the replacement watch order the customer chose, and applied a $10 credit, which are concrete actions that settle the issue."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 4,
+          "reason": "The agent said a return email with instructions was sent and the replacement should arrive in 3-5 business days, but did not explain what the customer must do with the damaged watch (shipping, timing) or mention tracking."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 4,
+          "reason": "The agent asked for the order number and a description of the damage, both new and needed, and did not re-ask for the damage even though the customer had mentioned it generally, since the follow-up requested specifics."
+        }
+      ]
+    },
+    {
+      "conversation_id": 80,
+      "overall": 4.67,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 5,
+          "reason": "The agent looked up the order and confirmed it had shipped and was in transit, which fully answered the customer's status request and put her worry about a delay to rest."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 4,
+          "reason": "The agent said the OTG should arrive within 2-3 business days, which is a specific timeframe, but gave no tracking details or guidance on what to do if it doesn't arrive."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 5,
+          "reason": "The agent asked for name, email, and order number, each only once and only as needed to look up the order, and never asked for any of it again."
+        }
+      ]
+    },
+    {
+      "conversation_id": 81,
+      "overall": 3.0,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 3,
+          "reason": "The agent confirmed refund eligibility and said the refund would be processed once photos arrive, but no refund or return was actually initiated in the conversation, so it is a conditional promise only."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 4,
+          "reason": "The agent gave a specific action (email photos to support@brownbox.com) and a timeframe (3-5 business days after receipt), but did not explain how to return the damaged item or whether a return label would be provided."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 2,
+          "reason": "The agent asked again for the reason for the return, which the customer had already stated (arrived damaged), and asked for a damage description after the customer had already said it was damaged, though the photos were new and needed."
+        }
+      ]
+    },
+    {
+      "conversation_id": 82,
+      "overall": 4.67,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 5,
+          "reason": "The agent answered the customer's questions about needing an account and what information to provide, and the customer left satisfied and able to proceed, so the issue was resolved."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 4,
+          "reason": "The agent said the customer can start shopping immediately once the account is created and to reach out with other questions, which is a reasonably clear next step for such a simple query, though it did not explicitly spell out the purchase steps."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 5,
+          "reason": "The agent never asked for any information and responded directly to what the customer said, so nothing was requested again."
+        }
+      ]
+    },
+    {
+      "conversation_id": 83,
+      "overall": 3.67,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 4,
+          "reason": "The agent approved the return, agreed to reimburse courier charges, and promised a refund, but the refund and reimbursement are conditional on later steps and nothing was actually issued during the call."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 4,
+          "reason": "The agent explained that a return label and instructions would be emailed, the refund would go to the original payment method after the printer is received and inspected, and courier charges would be reimbursed in 3-5 business days after the receipt is sent, though no timeframe was given for the label email or the refund."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 3,
+          "reason": "The agent asked for the order number once, which was new and needed, but then asked for the reason for the return and what was wrong with the printer, which the customer had already stated at the start (wanting a refund because it was not working properly)."
+        }
+      ]
+    },
+    {
+      "conversation_id": 84,
+      "overall": 3.33,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 4,
+          "reason": "The agent resent the codes and the customer confirmed receiving them, which resolved the verification problem, though the agent only promised to prevent future delays and offered nothing concrete for the complaint about the delay."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 2,
+          "reason": "The agent never told Jane what to do next, such as completing the verification and placing the order, and only gave the vague assurance that the issue won't happen again, with no detail or follow-up."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 4,
+          "reason": "The agent asked for the mobile number and email, which was reasonable since the customer had not yet given them, and did not ask for anything twice, though it asked whether the codes had been received and for a spam check after the system showed they were sent."
+        }
+      ]
+    },
+    {
+      "conversation_id": 85,
+      "overall": 3.33,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 4,
+          "reason": "The specialist updated the address, scheduled a new delivery attempt within two business days, and fixed the tracking information, and the customer ended satisfied, though the delivery itself was not yet completed."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 4,
+          "reason": "The specialist gave a concrete timeframe of two business days and said the customer can now track the order, but did not explain who will contact them, whether a confirmation would be sent, or what to do if delivery fails again."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 2,
+          "reason": "The customer had to repeat the whole problem and the order number to David after the transfer, and David asked again for the order number, so the agent's handoff failed to carry over information already given."
+        }
+      ]
+    },
+    {
+      "conversation_id": 86,
+      "overall": 4.67,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 5,
+          "reason": "The agent checked the order status, told Emily it is in processing, and explained all the statuses in 'My Orders', which fully answered her questions and left her satisfied."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 4,
+          "reason": "The agent said Emily will receive an email with tracking details once the order ships, which is a clear next step, though it gave no estimated timeframe for shipping."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 5,
+          "reason": "The agent asked only for her name and order number, which she had not yet provided, and did not ask for anything again afterward."
+        }
+      ]
+    },
+    {
+      "conversation_id": 87,
+      "overall": 3.33,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 4,
+          "reason": "The agent initiated the return and arranged a pickup during the call and confirmed courier charges would be reimbursed, though the refund itself is only pending receipt of the item and bank details were never actually collected."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 3,
+          "reason": "The agent said a confirmation email with pickup details would arrive shortly and that the refund would follow receipt of the item, but gave no pickup date, refund timeframe, or follow-up on the bank details the customer agreed to provide."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 3,
+          "reason": "The agent asked for the order number and then the reason for return even though the customer had already said the product was defective and wanted a refund, so it repeated a question the customer had answered."
+        }
+      ]
+    },
+    {
+      "conversation_id": 88,
+      "overall": 2.67,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 2,
+          "reason": "The agent could not expedite the delivery and only offered a refund the customer declined, then escalated; no concrete fix was made and the urgent problem remains unsolved."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 3,
+          "reason": "The agent said senior team members would contact Emily within 24 hours, which is a specific timeframe, but did not say who would call, how they would help, or what Emily should do in the meantime given her urgency."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 3,
+          "reason": "The agent asked for the delivery location, which was likely already tied to the order and was arguably unnecessary, but otherwise asked only for new information like contact details needed for escalation and did not re-ask for the order number or the issue."
+        }
+      ]
+    },
+    {
+      "conversation_id": 89,
+      "overall": 2.67,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 2,
+          "reason": "The agent only offered a 10% discount on a future purchase and vaguely promised the order would arrive 'as soon as possible', so the delayed delivery was not fixed or escalated and no concrete action was taken on it."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 1,
+          "reason": "The agent gave no delivery estimate, no follow-up timeframe, and no tracking or escalation details, only 'we'll make sure it's delivered as soon as possible', leaving the customer unsure what to expect."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 5,
+          "reason": "The agent asked for the order number only once, which was new and needed, and did not ask the customer to repeat the issue."
+        }
+      ]
+    },
+    {
+      "conversation_id": 90,
+      "overall": 4.67,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 5,
+          "reason": "The agent checked alternatives, then scheduled a pickup and arranged the return and refund within the call, which is a concrete action that settles the customer's request."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 5,
+          "reason": "The agent said a pickup was scheduled for the requested time, a confirmation email would follow, the item must be in original packaging with tags, and the refund takes 3-5 business days after receipt with an email notification."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 4,
+          "reason": "The agent asked for the order number only once and the problem details were new, but it asked 'How can I assist you with it?' after Lisa had already said she had an issue with a backpack, and the pickup address and time were needed new information."
+        }
+      ]
+    },
+    {
+      "conversation_id": 91,
+      "overall": 2.67,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 1,
+          "reason": "The agent refused the return and exchange, ran basic troubleshooting that found no fix, and sent the customer to an electrician, so the fan is still broken and nothing concrete was done to settle the issue."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 3,
+          "reason": "The agent told the customer to hire a licensed electrician and said BrownBox could help with a replacement if a manufacturing defect is found, but gave no detail on what documentation is needed, how to contact them, or any timeframe."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 4,
+          "reason": "The agent asked for the order number, which was needed, but then asked whether the fan was plugged in and turned on even though the customer had said it stopped working, which is a mild redundancy; otherwise the agent used what the customer said."
+        }
+      ]
+    },
+    {
+      "conversation_id": 92,
+      "overall": 3.33,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 3,
+          "reason": "The agent escalated to the shipping team and promised a tracking number by email, but the package is still undelivered and no refund, replacement, or firm delivery date was given, so the fix is only partial."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 3,
+          "reason": "The agent said it would email the tracking number and keep Sarah updated, but gave no delivery timeframe, no timing for the email or updates, and no detail on how updates would come."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 4,
+          "reason": "The agent asked only for the order number and name, which was reasonable, though the name request was arguably unnecessary once the order number was provided, and it never repeated a request for information already given."
+        }
+      ]
+    },
+    {
+      "conversation_id": 93,
+      "overall": 3.33,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 5,
+          "reason": "The customer's question was answered (no wall mount included) and the agent concretely added the $25 wall mount to the order at the customer's request, settling the need."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 2,
+          "reason": "The agent confirmed the new order total of $175 but gave no information about shipping, delivery timing, or confirmation emails, so the customer is left without clear next steps."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 3,
+          "reason": "The agent asked for the order number once, which was needed and not previously given, but then asked 'Would you like me to proceed with adding it to your order?' again after the customer had already said yes, and repeated 'anything else' after the customer said no."
+        }
+      ]
+    },
+    {
+      "conversation_id": 94,
+      "overall": 4.33,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 5,
+          "reason": "The agent walked the customer through installing the faucet and stove knobs, and the customer confirmed both worked, fully resolving the issue before the gift deadline."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 4,
+          "reason": "The agent gave clear step-by-step instructions during the call and invited further contact, but the issue was resolved so no further next steps were needed; closing guidance was generic."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 4,
+          "reason": "The agent asked for the order number and toy name, which were arguably unnecessary for troubleshooting, and asked whether the customer had instructions after he said he couldn't install it by following them, but never re-asked for something already given."
+        }
+      ]
+    },
+    {
+      "conversation_id": 95,
+      "overall": 3.67,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 4,
+          "reason": "The agent identified the error and said it would create a reimbursement request for the return shipping charge, which is a concrete action that settles the issue, though the refund itself is still pending."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 4,
+          "reason": "The agent gave a specific next step and timeframe (reimbursement request created, refund within 5-7 business days), but did not say how the refund will be issued or whether a confirmation will be sent."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 3,
+          "reason": "The agent asked for the order number, which was needed and new, but then asked what issue the customer was facing with the product even though the customer had already said they were returning jeans and had been charged for return shipping."
+        }
+      ]
+    },
+    {
+      "conversation_id": 96,
+      "overall": 4.0,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 4,
+          "reason": "The agent found a local partner store with the baby food and placed the order for pickup, which resolves the customer's urgent need, though the faster-delivery request itself could not be met and the pickup timing is unclear."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 4,
+          "reason": "The agent said the customer would get an email with pickup details and order number within 24 hours, which is a concrete step and timeframe, but it did not say when the food would be ready at the store or name the store."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 4,
+          "reason": "The agent asked for location details after the customer had said the delivery problem was about their location, and later asked for a zip code, which is new and needed; the initial name and email requests were reasonable, and nothing already given was repeated verbatim, though the location question was somewhat redundant."
+        }
+      ]
+    },
+    {
+      "conversation_id": 97,
+      "overall": 4.0,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 4,
+          "reason": "The agent created a warranty claim during the chat and promised a replacement within 5-7 business days, but the replacement itself is still pending and depends on the customer sending more information."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 5,
+          "reason": "The agent explained that an email with a claim number will arrive, that the customer must reply with the purchase date, serial number and issue description, and that a replacement ships within 5-7 business days of receiving that information."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 3,
+          "reason": "The agent asked for the customer's issue even though the customer had already said it was a warranty claim on a replacement coffee maker, and later asked for a brief issue description again in the email; the agent did also ask whether troubleshooting was done, which is new and needed."
+        }
+      ]
+    },
+    {
+      "conversation_id": 98,
+      "overall": 4.33,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 4,
+          "reason": "The agent said 'I can cancel your order for you right away' and the cancellation is processed within 24 hours, but the agent never explicitly confirmed the cancellation was completed during the call, so it is mostly a concrete action with slight ambiguity."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 5,
+          "reason": "The agent specified that cancellation will be processed within 24 hours, the refund initiated soon after, and that it may take 3-5 business days to reflect depending on the bank, giving clear timeframes."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 4,
+          "reason": "The agent asked for the reason for cancellation (not strictly needed) and asked for order number and email, which the customer had not yet provided; nothing already given was re-asked, though the reason question was unnecessary."
+        }
+      ]
+    },
+    {
+      "conversation_id": 99,
+      "overall": 3.67,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 5,
+          "reason": "Mary confirmed she processed the replacement request, so a concrete action settling the damaged shirt issue was taken within the conversation."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 4,
+          "reason": "The agent gave a specific timeframe (shipped within 3-5 business days) and said the damaged item need not be returned, but gave no tracking or confirmation details and the transfer was only vaguely explained."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 2,
+          "reason": "After the customer gave the order and SKU numbers to John, the Returns and Refunds agent asked for the same details again after the transfer, so the customer had to repeat information already provided."
+        }
+      ]
+    },
+    {
+      "conversation_id": 100,
+      "overall": 3.67,
+      "scores": [
+        {
+          "criterion": "Fixing the problem",
+          "score": 2,
+          "reason": "The agent could not speed up delivery and only offered workarounds (store locator, partner store email), so the customer ended still disappointed with the urgent need unresolved."
+        },
+        {
+          "criterion": "Clear next steps",
+          "score": 4,
+          "reason": "The agent gave concrete steps such as using the Store Locator on the website and contacting partner stores via an emailed list, but gave no timeframe for the email and did not say what happens with the original order."
+        },
+        {
+          "criterion": "Not asking again",
+          "score": 5,
+          "reason": "The agent asked for the order number once, which the customer had not yet provided, and did not ask for anything the customer had already said."
+        }
+      ]
+    }
+  ]
+}
